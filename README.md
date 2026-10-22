@@ -59,7 +59,6 @@ plt.show()
 ```
 
 ## Output
-
 <img width="335" height="317" alt="image" src="https://github.com/user-attachments/assets/38d6ef59-3ef7-47f7-9e8f-cac68a44457b" />
 <img width="841" height="470" alt="image" src="https://github.com/user-attachments/assets/6bd3a227-129d-439a-8841-41f9521d7ec9" />
 <img width="630" height="469" alt="image" src="https://github.com/user-attachments/assets/b0bfc626-2df7-40c1-80e7-5d8ba643bd21" />
